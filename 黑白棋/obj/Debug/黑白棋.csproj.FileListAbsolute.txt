@@ -1,0 +1,18 @@
+c:\users\junge\documents\visual studio 2013\Projects\黑白棋\黑白棋\bin\Debug\黑白棋.exe.config
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\黑白棋\黑白棋\bin\Debug\黑白棋.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\黑白棋\黑白棋\bin\Debug\黑白棋.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\黑白棋\黑白棋\obj\Debug\黑白棋.csprojResolveAssemblyReference.cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\黑白棋\黑白棋\obj\Debug\黑白棋.Form1.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\黑白棋\黑白棋\obj\Debug\黑白棋.Properties.Resources.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\黑白棋\黑白棋\obj\Debug\黑白棋.csproj.GenerateResource.Cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\黑白棋\黑白棋\obj\Debug\黑白棋.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\黑白棋\黑白棋\obj\Debug\黑白棋.pdb
+C:\Users\ymh\Desktop\黑白棋\黑白棋\bin\Debug\黑白棋.exe.config
+C:\Users\ymh\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.pdb
+C:\Users\ymh\Desktop\黑白棋\黑白棋\bin\Debug\黑白棋.exe
+C:\Users\ymh\Desktop\黑白棋\黑白棋\bin\Debug\黑白棋.pdb
+C:\Users\ymh\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.csprojResolveAssemblyReference.cache
+C:\Users\ymh\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.Form1.resources
+C:\Users\ymh\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.Properties.Resources.resources
+C:\Users\ymh\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.csproj.GenerateResource.Cache
+C:\Users\ymh\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.exe
